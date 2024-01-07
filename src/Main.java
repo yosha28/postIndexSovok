@@ -8,6 +8,10 @@ import java.util.stream.Stream;
 // 5 8 3
 //  4
 //
+//[0, 1, 2, 3]
+//[0, 1, 2, 8]
+//[0, 2, 3, 5]
+//[0, 2, 5, 8]
 
 public class Main {
 
@@ -56,4 +60,7 @@ public class Main {
     }
 
 }
+
+
+
 
